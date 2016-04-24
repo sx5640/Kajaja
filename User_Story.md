@@ -28,38 +28,6 @@ So that...
 
 
 ### EXAMPLES
-- As a user, I want to be able to post an item, add pics
-- As a user, I want to be able to see all the item I posted
-- As a user, I want to be able to see all the item posted to the website
-- As a user, I want to be able to sign up & login
-- As a user, I want to be able to sign up & login via social networks
-- As a user, I want to be able to see where each item located
-- As a user, I want to be able to search through items
-- As a user, I want to be able to sort the item by categories and attributions, and each category should have a seperate page
-- As a user, I want to be able to see the contact information of the seller
-- As a user, I want to be able to invite friend to the platform
-- As a user, I want to be able to filter items by attributions
-- As a user, I want to be able to set favorate items for later access
-- As a user, I want to be able to message the seller via in-app messaging system
-- As a user, I want to be able to send reminder via email
-- As a user, I want to be able to list search result in a map
-- As a user, I want to be able to see my browsing history
-- As a user, I want to be able to delete and update my posts
-- As a user, I want to be able to update my user profile
-- As a user, I want to be able to add friends
-- As a user, I want to be able to follow anther user
-- As a user, I want to be able to leave a review for other users
-- As a user, I want to be able to see the reviews about a user, and his/her profile
-- As a user, I want to be able to discuss about a particular item posted to the platform
-- As a user, I want to be able to see analytics about my posts
-- As a user, I want to be able to add hash-tag to my posts
-- As a user, I want to be able to view by hash-tags or themes
-- As a user, I want to be able to have auto-filled or preset descriptions
-- As a user, I want to be able to see all post from one users
-- As a user, I want to be able to combine my posted items into bundles
-- As a user, I want to be able to view individual item in a bundle, and I can see what bundles an item is in
-- As a user, I want to be able to view the pages in different languages
-
 
 
 
@@ -69,33 +37,48 @@ So that...
 
 ## Prioritize
 1. NEED TO HAVE
-- As a user, I want to be able to see a list of restaurants
-- As an owner, I want to be able to create a restaurant
-- As an owner, I want to be able to set the capacity
-- As a user, I want to be able to sign up
-- As a user, I want to be able to book a table
-- As a user, I want to be able to cancel a reservation
-- As a user, I want to be able to see the hours
-- As a user, I want to be able to see the contact details
-- As an owner, I want to be able to see the reservations for my restaurant
-- As a user, I want to receive an email confirmation of my reservation
-
-2. NICE TO HAVE
-- As a user, I want to be able to see the menu
-
-3. HAPPY TO HAVE
+- As a user, I want to be able to post an item, add pics
+- As a user, I want to be able to see all the item I posted
+- As a user, I want to be able to see all the item posted to the website
+- As a user, I want to be able to sign up & login
+- As a user, I want to be able to see the contact information of the seller
+- As a user, I want to be able to delete and update my posts
+- As a user, I want to be able to update my user profile
+- As a user, I want to be able to search through items
 
 
+2. WANT TO HAVE
+- As a user, I want to be able to sign up & login via social networks
+- As a user, I want to be able to see where each item located
+- As a user, I want to be able to filter items by attributions, to refine search
+- As a user, I want to be able to sort the item by categories and attributions, and each category should have a seperate page
+- As a user, I want to be able to set favorate items for later access
+- As a user, I want to be able to message the seller via in-app messaging system, and details of the item should be shown in message page
+- As a user, I want to be able to see all post from one users
+- As a user, I want retrieve my password if I forget
 
 
+3. NICE TO HAVE
+- As a user, I want to be able to invite friend to the platform
+- As a user, I want to be able to send reminder via email
+- As a user, I want to set my email and other notification settings
+- As a user, I want to be able to list search result in a map
+- As a user, I want to be able to see my browsing history
+- As a user, I want to be able to add friends
+- As a user, I want to be able to follow anther user
+- As a user, I want to be able to leave a review for other users
+- As a user, I want to be able to see the reviews about a user, and his/her profile
+- As a user, I want to be able to see analytics about my posts
 
 
-
-
-
-
-
-
+4. MAY OR MAY NOT HAVE
+- As a user, I want to be able to discuss about a particular item posted to the platform
+- As a user, I want to be able to add hash-tag to my posts
+- As a user, I want to be able to view by hash-tags or themes
+- As a user, I want to be able to have auto-filled or preset descriptions
+- As a user, I want to be able to combine my posted items into bundles
+- As a user, I want to be able to view individual item in a bundle, and I can see what bundles an item is in
+- As a user, I want to be able to view the pages in different languages
 
 
 ## Define our key words
